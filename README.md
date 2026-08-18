@@ -110,5 +110,5 @@ loyalty naturally builds over time.
 - `screenshots/` — Dashboard preview images
 
 ## Tools Used
-SQL Server, SQL Server Management Studio (SSMS), Power BI Desktop, 
+SQL Server, Power BI Desktop, 
 Power Query, DAX
