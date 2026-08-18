@@ -101,7 +101,8 @@ focus on contract type and competitive positioning rather than assuming
 loyalty naturally builds over time.
 
 ## Dashboard Preview
-![Dashboard Page 1](screenshots/dashboard-page1.png)
+![Dashboard Page
+](Dashboard_page.png)
 
 ## Files
 - `Churn_analysis.pbix` — Power BI dashboard file
