@@ -36,7 +36,7 @@ churn status/reason.
 - Loaded the cleaned dataset into a production table (`prod_Churn`) used 
   for all downstream Power BI analysis
 
-See [`sql/churn_etl_queries.sql`](sql/churn_etl_queries.sql) for the full 
+See [`churn_etl_queries.sql`](churn_etl_queries.sql) for the full 
 set of queries.
 
 ### 2. Power BI Data Transformation (Power Query)
